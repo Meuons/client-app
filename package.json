@@ -1,4 +1,5 @@
-{"homepage": "http://Meouns.github.io/client-app",
+{
+  "homepage": "http://Meouns.github.io/client-app",
   "name": "app",
   "version": "0.1.0",
   "private": true,
@@ -39,5 +40,16 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
+  },
+  "description": "This is a client app built in react that consumes a web service and let's the user interact with it with full CRUD functionality",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meuons/react-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meuons/react-client/issues"
   }
 }
